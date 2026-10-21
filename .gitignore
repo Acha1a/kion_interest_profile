@@ -1,0 +1,11 @@
+.venv/
+venv/
+.idea/
+__pycache__/
+*.py[cod]
+*.csv
+*.zip
+*.parquet
+outputs/
+*.pkl
+*.joblib
